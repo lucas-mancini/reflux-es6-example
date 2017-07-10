@@ -1,0 +1,19 @@
+.RecipeForm {
+  margin: 20px auto;
+}
+
+.RecipeForm--label {
+  display: block;
+}
+
+.RecipeForm--textarea {
+  display: block;
+  min-width: 300px;
+  min-height: 100px;
+  margin: 15px auto;
+}
+
+.RecipeForm--input {
+  min-width: 300px;
+  margin: 15px auto;
+}
